@@ -1,0 +1,27 @@
+{
+  "name": "student-card-generator",
+  "version": "1.0.0",
+  "description": "The Student Card Generator is a web application that automates the process of generating student identification cards for educational institutions. It provides an intuitive interface for managing student information, creating customizable card templates, and generating printable student cards. Simplify your card generation process with this efficient digital solution.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanmiadev/student-card-generator.git"
+  },
+  "keywords": [
+    "ID",
+    "CARD",
+    "student",
+    "Card",
+    "Generator",
+    "hasanmiadev"
+  ],
+  "author": "MD. HASAN MIA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasanmiadev/student-card-generator/issues"
+  },
+  "homepage": "https://github.com/hasanmiadev/student-card-generator#readme"
+}
